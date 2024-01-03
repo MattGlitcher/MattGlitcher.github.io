@@ -24,7 +24,6 @@ body
     min-width: 100%;
     min-height: 100%;
     opacity: 0.1;
-    z-index: 2;
 }
 
 .container
@@ -43,7 +42,6 @@ body
     flex-direction: column;
     padding: 5%;
     opacity: 0.5;
-    z-index: 21;
     backdrop-filter: blur(10px);
 }
 
@@ -57,7 +55,6 @@ body
     display: flex;
     justify-content: start;
     align-items: center;
-    z-index: 1;
 }
 
 .header-item
